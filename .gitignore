@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Local datasets and weights
+input.txt
+micro_gpt_best.pt
